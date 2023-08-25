@@ -1,0 +1,3 @@
+C:/Users/Utilizador/OneDrive/Documentos/GitHub/IAPG/cmake-build-debug/CMakeFiles/ProjetoIAPG.dir
+C:/Users/Utilizador/OneDrive/Documentos/GitHub/IAPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utilizador/OneDrive/Documentos/GitHub/IAPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
